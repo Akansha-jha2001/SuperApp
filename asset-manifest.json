@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SuperApp/static/css/main.073c9b0a.css",
+    "main.js": "/SuperApp/static/js/main.3fb34809.js",
+    "index.html": "/SuperApp/index.html",
+    "main.073c9b0a.css.map": "/SuperApp/static/css/main.073c9b0a.css.map",
+    "main.3fb34809.js.map": "/SuperApp/static/js/main.3fb34809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fb34809.js"
+  ]
+}
